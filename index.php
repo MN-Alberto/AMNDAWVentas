@@ -42,7 +42,7 @@ if (!empty($_SESSION['active'])) {
     <!-- The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>ACCESO AL SISTEMA</title>
+    <title>ACCESO</title>
 
     <!-- Styles -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
